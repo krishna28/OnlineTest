@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1317732969">
+    <data-source source="LOCAL" name="test dev" uuid="d7cdbfe5-ff3b-4524-944c-6ebe7916793c">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost/myblog</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc1dfd8dfc3dfd9dfc2dfc4dfcbdfeadfd9dfc3dfcfdfc7dfcfdfc4dfd9</user-password>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/lib/com.mysql.jdbc_5.1.5.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
